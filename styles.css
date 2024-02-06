@@ -28,3 +28,11 @@ p {
 p:last-child {
     margin-top: 20px;
 }
+
+.photo {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%; /* Makes the photo round */
+}
